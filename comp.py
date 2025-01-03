@@ -168,4 +168,4 @@ class Compliments(loader.Module):
         await asyncio.sleep(self.config["speed"])
         await message.edit("❤ | 70. Ты — звезда в моем небе.")
         await asyncio.sleep(self.config["speed"])
-        await message.edit("❤ | Моя любимая, все эти комплименты именно для тебя! Ведь... я люблю тебя всем серцем! by @twistIight &lt;emoji document_id=5287454910059654880&gt;❤️&lt;/emoji&gt;")
+        await message.edit("❤ | Моя любимая, все эти комплименты именно для тебя! Ведь... я люблю тебя всем серцем! by @twistIight❤️")
